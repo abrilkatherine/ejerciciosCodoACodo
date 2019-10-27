@@ -11,10 +11,13 @@ public class NumerosEnteros {
 
         Scanner entrada = new Scanner(System.in);
 
-        Integer numero1;
-        Integer numero2;
+        int numero1;
+        int numero2;
 
-        System.out.println("Ingresar numero enteros");
+        System.out.println("Ingresar numeros enteros");
+
+        numero1=entrada.nextInt();
+        numero2=entrada.nextInt();
 
     }
 }
