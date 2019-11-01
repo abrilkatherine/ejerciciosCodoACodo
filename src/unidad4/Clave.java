@@ -1,9 +1,11 @@
+package unidad4;
+
 import java.util.Scanner;
 
 public class Clave {
     public static void main(String[] args) {
 
-/*      25) Teniendo en cuenta que la clave es “eureka”, escribir un algoritmo que nos pida una clave. Solo tenemos
+        /* 25) Teniendo en cuenta que la clave es “eureka”, escribir un algoritmo que nos pida una clave. Solo tenemos
         3 intentos para acertar, si fallamos los 3 intentos nos mostrará un mensaje indicándonos que hemos agotado
         esos 3 intentos. Si acertamos la clave, saldremos directamente del programa. Utilice la instrucción while. */
 
