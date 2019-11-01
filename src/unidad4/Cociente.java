@@ -1,9 +1,8 @@
 package unidad4;
 
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
-public class EnteroConDecimal {
+public class Cociente {
     public static void main(String[] args) {
 
         /*  3)  Desarrollar un algoritmo que permita ingresar dos números enteros por teclado. La computadora deberá
